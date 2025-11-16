@@ -8,9 +8,9 @@
 
 > Replace the example paths below with your actual screenshot files. Put screenshots inside an `assets/` folder in the project root (e.g. `assets/screenshot-1.png`).
 
-![Home screen]([assets/screenshot-1.png](https://github.com/karankeche/Intervivew_Question_Tracker/blob/main/src/application/home.png?raw=true))
+![Home screen](src/application/home.png)
 
-![Add Question form](assets/screenshot-2.png)
+![Add Question form](src/application/question.png)
 
 
 
@@ -161,4 +161,5 @@ If you want, I can:
 * Add exact dependency lines (Maven/Gradle) if you tell me which build tool you used (Maven or Gradle).
 
 Tell me which of these you'd like next.
+
 
